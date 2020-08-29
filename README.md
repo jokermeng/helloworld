@@ -1,4 +1,4 @@
 # helloworld
-begin
+beginning
 tensorflow study
 go for it!
